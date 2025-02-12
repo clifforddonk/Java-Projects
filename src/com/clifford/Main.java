@@ -8,5 +8,7 @@ public class Main {
 
     public static void Hey(int age) {
         System.out.println("I am "+ age +" years old");
+        System.out.println("I am "+ age +" years old");
+        System.out.println("I am "+ age +" years old");
     }
 }
