@@ -13,7 +13,6 @@ public class Clifford {
         System.out.println("Hi from Clifford");
         System.out.println("Hi from Clifford");
         System.out.println("Hi from Clifford");
-        System.out.println("Hi from Clifford");
         
 
 
