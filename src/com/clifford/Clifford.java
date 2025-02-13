@@ -13,6 +13,14 @@ public class Clifford {
         System.out.println("Hi from Clifford");
         System.out.println("Hi from Clifford");
         System.out.println("Hi from Clifford");
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> a9ecd5d50293ed1ca7dfd4c3a85f6fcabc9b5b60
     }
 
 }

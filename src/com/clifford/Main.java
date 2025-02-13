@@ -11,7 +11,6 @@ public class Main {
         System.out.println("I am "+ age +" years old");
         System.out.println("I am "+ age +" years old");
         System.out.println("I am "+ age +" years old");
-        System.out.println("I am "+ age +" years old");
     }
 
 
