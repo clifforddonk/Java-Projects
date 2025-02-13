@@ -10,7 +10,8 @@ public class Clifford {
     public static void sayHi() {
         System.out.println("Hi from Clifford");
         System.out.println("Hi from Clifford");
-        
+        System.out.println("Hi from Clifford");
+
 
 
 
